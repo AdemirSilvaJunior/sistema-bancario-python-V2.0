@@ -48,7 +48,7 @@ Este sistema bancário foi desenvolvido para gerenciar operações básicas de u
    ```bash
    python sistema-bancario-python-V2.0.py
 
-   ## 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 - `sistema-bancario-python-V2.0.py`: Código principal do sistema bancário.
 - `README.md`: Este arquivo com informações sobre o projeto.
