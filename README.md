@@ -46,11 +46,11 @@ Este sistema bancário foi desenvolvido para gerenciar operações básicas de u
 
 3. Execute o script Python:
    ```bash
-   python sistema_bancario.py
+   python sistema-bancario-python-V2.0.py
 
    ## 📂 Estrutura do Projeto
 
-- `sistema_bancario.py`: Código principal do sistema bancário.
+- `sistema-bancario-python-V2.0.py`: Código principal do sistema bancário.
 - `README.md`: Este arquivo com informações sobre o projeto.
 
 ## 👥 Contribuindo
