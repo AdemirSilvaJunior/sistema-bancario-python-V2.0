@@ -63,4 +63,6 @@ Este projeto é totalmente para fins educativos.
 
 ## 📬 Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato através do e-mail: ademir_silva_junior@hotmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/AdemirSilvaJunior)
+- [![E-mail](https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white)](mailto:ademir_silva_junior@hotmail.com)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5511966217948)
