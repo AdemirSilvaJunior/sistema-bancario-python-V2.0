@@ -2,10 +2,6 @@
 
 Este repositório contém a versão mais recente do código para um sistema bancário simples desenvolvido em Python. Esta versão (2.0) introduz melhorias e novos recursos em comparação com a versão anterior.
 
-## 🔗 Links Relacionados
-- [Versão 1.0 do Projeto](https://github.com/AdemirSilvaJunior/sistema-bancario-python.git) - Confira a versão anterior do sistema bancário.
-
-
 ## 📜 Descrição
 
 Este sistema bancário foi desenvolvido para gerenciar operações básicas de uma conta corrente, como depósitos, saques e visualização de extrato. Nesta nova versão, foram implementadas funcionalidades adicionais para tornar o sistema mais completo e modularizado.
@@ -64,6 +60,9 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir um 
 ## 📝 Licença
 
 Este projeto é totalmente para fins educativos.
+
+## 🔗 Links Relacionados
+- [Versão 1.0 do Projeto](https://github.com/AdemirSilvaJunior/sistema-bancario-python.git) - Confira a versão anterior do sistema bancário.
 
 ## 📬 Contato
 
